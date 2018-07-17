@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoopTest()
+public class ForLoopTest
 {
 
     private final int END = 1000;
