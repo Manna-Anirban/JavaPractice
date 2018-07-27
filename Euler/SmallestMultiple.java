@@ -5,6 +5,8 @@ public class SmallestMultiple
 
         What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
      */
+    
+    // I know this is not that efficient, but it's the first thing that came to mind
 
     private void run()
     {
